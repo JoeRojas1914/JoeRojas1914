@@ -31,11 +31,11 @@ Bachelor in Ingeniería en Sistemas Inteligentes (2019 – 2025)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### Soft Skills
-- ✅ Teamwork
-- ✅ Effective Communication
-- ✅ Problem Solving
-- ✅ Adaptability
-- ✅ Punctuality
+✅ Teamwork
+✅ Effective Communication
+✅ Problem Solving
+✅ Adaptability
+✅ Punctuality
 
 ---
 ## 📜 Certifications
