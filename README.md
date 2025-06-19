@@ -1,6 +1,6 @@
 # 👨‍💻 Jorge Ángel Rojas Martínez
 
-![Banner](https://raw.githubusercontent.com/JoeRojas1914/JoeRojas1914/main/assets/banner.png)
+![Banner](https://raw.githubusercontent.com/JoeRojas1914/JoeRojas1914/main/Banner.png)
 
 > Hi there, I am a 23-year-old software engineering student passionate about web and software development. Dedicated to continuous learning and growth as a future engineer.
 
