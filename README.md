@@ -51,9 +51,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/mdi/chart-box-outline.svg?color=%232F81F7" width="24" /> GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=JoeRojas1914&show_icons=true&theme=default)
+## <img src="https://api.iconify.design/mdi/chart-box-outline.svg?color=%232F81F7" width="24" /> Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeRojas1914&layout=compact&theme=default)
 
 ---
