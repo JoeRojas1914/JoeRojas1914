@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jorge-%C3%A1ngel-rojas-mart%C3%ADnez-12292a31b/)
 [![Email](https://img.shields.io/badge/Email-jorgeangelrojasmtz@gmail.com-red?style=flat&logo=gmail)](mailto:jorgeangelrojasmtz@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-success?style=flat&logo=githubpages)](https://joerojas1914.github.io)
 
 ---
 
