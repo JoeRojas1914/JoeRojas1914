@@ -10,8 +10,7 @@
 ## <img src="https://api.iconify.design/mdi/rocket-launch-outline.svg?color=%232F81F7" width="24" /> Projects
 
 - **[Fresh Steps](https://github.com/JoeRojas1914/Fresh-Steps)** — Sales & operations management system in production for a real client (sales, clients, expenses, statistics). *Flask · MySQL · Gunicorn · Render*
-- **[Control de Finanzas](https://github.com/JoeRojas1914/Control-de-Finanzas)** — Personal finance tracker for bank accounts, credit cards, and categorized expenses with interactive charts. *FastAPI · SQLite · SQLAlchemy · Chart.js*
-- **[Ableton Effect Chain Recommender](https://github.com/JoeRojas1914/Ableton-FX-App)** — Extracts acoustic features from audio and mathematically derives Ableton parameters (BPM-synced delay, RMS compression, energy-based reverb). *React · Node.js · Spotify API · Meyda.js*
+- **[Academic Control System]([https://github.com/JoeRojas1914/Control-de-Finanzas](https://github.com/JoeRojas1914/Control-Escolar-Departamento-Fisico-Matematico))** — Web application for the Physics and Mathematics Department at UASLP. Professors manage grades, statistics, and attendance; students view academic performance; administrative module for catalogs, groups, and settings. *Laravel · PHP · MySQL · JavaScriptjs*
 
 
 ## <img src="https://api.iconify.design/mdi/laptop.svg?color=%232F81F7" width="24" /> Skills
